@@ -1,0 +1,3 @@
+author = Skrell
+version = 0.1
+displayName = A Learning Experience

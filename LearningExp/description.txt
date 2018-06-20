@@ -1,0 +1,5 @@
+Learning Experience is exactly what it sounds like: It's a practice set of items and modded features that I am creating as practice to make better mods in the future.
+
+Current Features:
+Early game Wings (For all of you wingslot users outthere)
+Early game magic that doesn't suck (hopefully)
